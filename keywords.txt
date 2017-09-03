@@ -29,5 +29,5 @@ FTDIEve	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-EVE_CALIBRATE    LITERAL1
-EVE_TRIM         LITERAL1
+EVE_CALIBRATE	LITERAL1
+EVE_TRIM	LITERAL1
